@@ -2,7 +2,7 @@
 Assignment for the JetBrains internship 2025
 
 ## How to run
-I have compiled my work into a Google Colab file for easy access. Please open the file using [this link](https://colab.research.google.com/drive/1iK4EsA_U7qivSoc8INfalE0mOu4KMOoy?usp=sharing). The instructions below are also included in the colab file.
+I have compiled my work into a Google Colab file for easy access. Please open the file using [this link](https://colab.research.google.com/drive/1iK4EsA_U7qivSoc8INfalE0mOu4KMOoy?usp=sharing), and there is also a copy of the code in this repo. The instructions below are also included in the colab file.
 
 To choose the number of clusters the algorithm uses, please input an integer in the box `num_clusters`.
 
