@@ -10,7 +10,7 @@ Also include the file named `PMIDs_list` before running by going to the left han
 
 To run the code, select **Runtime → Run all**.
 
-The final graph will be displayed at the bottom of the page. *I am so sorry about how long it takes to run! eutils limits the number of API calls you can make without a key (and google colab is also hellishly slow).*
+The final graph will be displayed at the bottom of the page. *I am so sorry about how long it takes to run! eutils limits the number of API calls you can make without a key (and google colab is also very slow).*
 
 ## Expected output
 The output should look something like this: 
